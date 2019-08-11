@@ -2,7 +2,7 @@
 #a+(a+b)+(a+2b)+.........
 #tn=a+(n-1)b is the nth term
 #sum of n terms= (n/2)[2a+(n-1)b]
-#b=Tn-Tn-1
+#b=Tn-(Tn-1)
 
 inp = input().split()
 A=int(inp[0])           #first num
